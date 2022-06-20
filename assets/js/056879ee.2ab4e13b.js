@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwjftu_ds=self.webpackChunkwjftu_ds||[]).push([[1606],{8167:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/\u65e5\u8bb0","name":"\u65e5\u8bb0","count":1,"permalink":"/blog/tags/\u65e5\u8bb0"}')}}]);

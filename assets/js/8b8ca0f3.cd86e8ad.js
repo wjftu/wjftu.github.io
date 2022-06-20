@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwjftu_ds=self.webpackChunkwjftu_ds||[]).push([[3285],{3042:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/rocketchat","name":"rocketchat","count":1,"permalink":"/blog/tags/rocketchat"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwjftu_ds=self.webpackChunkwjftu_ds||[]).push([[3649],{9106:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/\u4e0a\u6d77","name":"\u4e0a\u6d77","count":1,"permalink":"/blog/tags/\u4e0a\u6d77"}')}}]);
