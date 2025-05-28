@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwjftu_ds=self.webpackChunkwjftu_ds||[]).push([[3983],{3161:s=>{s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/ecc","name":"ECC","count":1,"permalink":"/blog/tags/ecc"}')}}]);
